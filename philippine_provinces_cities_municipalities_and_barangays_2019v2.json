@@ -38254,7 +38254,7 @@
               "TAMIA"
             ]
           },
-          "LAAK (SAN VICENTE)": {
+          "LAAK": {
             "barangay_list": [
               "AGUINALDO",
               "AMOR CRUZ",
@@ -38298,7 +38298,7 @@
               "SISIMON"
             ]
           },
-          "MABINI (DOÑA ALICIA)": {
+          "MABINI": {
             "barangay_list": [
               "ANITAPAN",
               "CABUYUAN",
@@ -38354,7 +38354,7 @@
               "TERESA"
             ]
           },
-          "MARAGUSAN (SAN MARIANO)": {
+          "MARAGUSAN": {
             "barangay_list": [
               "BAGONG SILANG",
               "BAHI",
@@ -38519,7 +38519,7 @@
       },
       "DAVAO DEL NORTE": {
         "municipality_list": {
-          "ASUNCION (SAUG)": {
+          "ASUNCION": {
             "barangay_list": [
               "BINANCIAN",
               "BUAN",
@@ -38576,7 +38576,7 @@
               "TUGANAY"
             ]
           },
-          "CITY OF TAGUM": {
+          "TAGUM CITY": {
             "barangay_list": [
               "APOKON",
               "BINCUNGAN",
@@ -38603,7 +38603,7 @@
               "VISAYAN VILLAGE"
             ]
           },
-          "ISLAND GARDEN CITY OF SAMAL": {
+          "Samal City": {
             "barangay_list": [
               "ADECOR",
               "ANONANG",
